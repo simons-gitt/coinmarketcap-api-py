@@ -1,0 +1,7 @@
+btc 0.78
+xrp 800
+eth 14.5
+ltc 9.6
+eos 460
+bch 2.134
+miota 1359.3
